@@ -21,7 +21,7 @@ Installation:-
 
 Clone this repository:
 
-git clone https://github.com/AsimServices/image-compression-script.git
+git clone https://github.com/AsimServices/script-to-compress-images.git
 
 Navigate to the project directory:
 
